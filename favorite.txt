@@ -1,3 +1,6 @@
 food n1
 food n2
 food n3
+movie n1
+movie n2
+movie n3
